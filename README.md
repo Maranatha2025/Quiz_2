@@ -14,7 +14,8 @@ La gestión de identidades y accesos (IAM) es un conjunto de políticas y tecnol
 4. 😁 **IAM (Identity and Access Management)**
 La gestión de identidades y accesos (IAM) es un conjunto de políticas y tecnologías que permiten garantizar que las personas y sistemas adecuados tengan el acceso correcto a recursos en el momento adecuado.**
 
-5. 
+5. 🦾 **Disco Duro**
+Dispositivo de almacenamiento permanente donde se guardan archivos, programas y el sistema operativo. 
 
 6.🎶**Nube informática**
 Servicio que permite almacenar, procesar y acceder a datos y programas a través de internet sin necesidad de tenerlos en el equipo físico
