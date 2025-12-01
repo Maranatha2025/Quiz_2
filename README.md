@@ -20,5 +20,5 @@ Dispositivo de almacenamiento permanente donde se guardan archivos, programas y 
 6.🎶 **Nube informática**
 Servicio que permite almacenar, procesar y acceder a datos y programas a través de internet sin necesidad de tenerlos en el equipo físico
 
-7. 🤣**Secrets-in-code / hardcoded keys abuse**
+7.🤣**Secrets-in-code / hardcoded keys abuse**
 Exposición de claves o secretos embebidos en código fuente.
